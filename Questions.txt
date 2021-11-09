@@ -1,6 +1,4 @@
-# Quiz-competition-daily
-
-## Problem: 
+Problem: 
 
 Clark is conducting an online Quiz competition daily where daily participation for contestants is optional. 
 Clark want to send specific notifications to following group of participants
@@ -12,11 +10,11 @@ Help Clark to write functions in python to get the above information.
 Input:
 List of every day participant list
 
-# Output:
+Output:
 List of participants who participated daily
 List of participants who participated only once
 List of participants who participated on the first day and never participated again.
-# Sample input
+Sample input
 [
 [‘Sam’, ‘Emma’, ‘Joan’, ‘Krish’, ‘John’, ‘Desmond’, ‘Tom’, ‘Nicole’ ],
 [‘Brad’, ‘Walter’, ‘Sam’, ‘Krish’,’Desmond’, ‘Jennifer’],
@@ -26,7 +24,7 @@ List of participants who participated on the first day and never participated ag
 [‘Krish’, ‘Brad’, ‘Walter’, ‘Jennifer’,’Desmond’, ‘Harry’, ‘Nicole’, ‘Sam’]
 ] 
 
-# Sample output
+Sample output
 [‘Desmond’, ‘Krish’, ‘Sam’]
 [‘Kapil’, ‘Ron’, ‘Ginny’, ‘Ted’, ‘Sachin’, ‘John’, ‘Joan’]
 [‘John’, ‘Joan’]
